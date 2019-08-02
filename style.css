@@ -1,0 +1,87 @@
+.header{
+  text-align: center;
+}
+.header_kiri{
+  margin-left: 10%;
+  padding: 2%;
+  width: 20%;
+  float: left;
+}
+.header_kanan{
+  /* margin-top: 5%; */
+  float: right;
+  text-align: left;
+  margin-right: 10%;
+}
+.kiri{
+  clear: both;
+  margin-left: 10%;
+  margin-bottom: 10%;
+
+  padding: 2% 2% 10% 2%;
+  width: 20%;
+  background-color: #ebc92c;
+  float: left;
+
+
+}
+.kanan{
+  border-top: solid 3px;
+  float: right;
+  width:50%;
+  background-color: ;
+  margin-right: 10%;
+  margin-bottom: 3%;
+}
+.content_header{
+  text-decoration: underline;
+}
+.img_profile{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+  border-radius: 50%;
+  border: solid 3px;
+  width: 50%;
+  height: auto;
+}
+.img_sosmed{
+  float: left;
+  width: 20%;
+  height: auto;
+  margin-right: 70px;
+
+}
+.img_sosmedg{
+  float: left;
+  width: 50%;
+  height: auto;
+  /* margin-right: 50px; */
+}
+.img_sec{
+  margin-top: 5%;
+}
+.profile_sec{
+  text-align: center;
+}
+.float{
+
+  text-align: justify;
+}
+.title_sec{
+  padding: 0px 1% 0px 2%;
+  background-color: #ffe730;
+}
+.bold{
+font-weight: bold;
+}
+.hov:hover{
+  background-color: #dcf3f5;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:visited{
+  color: black;
+}
